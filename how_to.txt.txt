@@ -1,0 +1,10 @@
+Zaczytywanie danych:
+Dane wprowadzamy oddzielaj¹c je przecinkami. Wprowadzamy wartoœci (pole powy¿ej) oraz liczebnoœci (pole poni¿ej). Mo¿emy wpisywaæ liczby rzeczywiste - w formacie amerykañskim (z kropk¹). W przypadku wpisania innych znaków 
+program pominie wartoœæ a¿ do nastêpnego przecinka. 
+Wyniki pojawiaj¹ siê w etykiecie oznaczonej "Tu pojawi siê wynik", bêd¹ ponadto odpowiednio podpisane. 
+Aby wywo³aæ funkcjê, wybieramy odpowiedni¹ opcjê z menu. Funkcje s¹ posegregowane pod wzglêdem rodzaju wartoœci statystycznej. Po wybraniu opcji "Krzywa Lorenza" lub "Histogram" pojawi siê nowe okno z odpowiednim wykresem. 
+Dla poprawnego dzia³ania programu wymagane jest pobranie biblioteki Matplotlib.
+Schemat dzia³ania wiêkszoœci funkcji obliczaj¹cych wartoœci statystyczne polega na wczytaniu wartoœci z pól do list, ewentualnie posegregowainu ich
+oraz wykonaniu odpowiednich obliczeñ. Nastêpnie edytowana zostaje etykieta, tak aby zwróci³a wynik. 
+ 
+
